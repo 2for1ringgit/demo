@@ -3,3 +3,4 @@ function demo () {
 }
 let fetch = false;
 module.export
+hello
